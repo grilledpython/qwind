@@ -1,5 +1,5 @@
 export const SITE = {
-  name: "Qwind",
+  name: "NotAnyPlace.",
 
   title:
     "NotAnyPlace.",
