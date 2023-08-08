@@ -2,9 +2,9 @@ export const SITE = {
   name: "Qwind",
 
   title:
-    "Qwind — Free template for Qwik + Tailwind CSS to build your new website.",
+    "NotAnyPlace.",
   description:
-    "Qwind is a free and ready to start template to make your website using Qwik and Tailwind CSS.",
+    "NotAnyPlace is a Conglomerete formed of multiple businesses and companies.",
 
   origin: "https://qwind.pages.dev",
   basePathname: "/",
