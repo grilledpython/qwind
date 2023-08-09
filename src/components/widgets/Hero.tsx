@@ -21,7 +21,7 @@ export default component$(() => {
                   </span>{" "}
                   is 
 <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
-Not Just Any Place 
+ Not Just Any Place 
 </span>{" "}
 <em>Qwik</em> + <em>Tailwind CSS</em>.
                   It has been designed following Best Practices, SEO, Accessibility,{" "}
