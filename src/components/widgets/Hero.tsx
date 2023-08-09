@@ -19,8 +19,8 @@ export default component$(() => {
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
                     NotAnyPlace
                   </span>{" "}
-                  is Not Just Any Place!
-<em>Qwik</em> + <em>Tailwind CSS</em>.
+                  is Not Just Any Place! Welcome to a place where Affordable prices meet Quality services and products. 
+
                   It has been designed following Best Practices, SEO, Accessibility,{" "}
                   <span class="inline md:hidden">...</span>
                   <span class="hidden md:inline">
