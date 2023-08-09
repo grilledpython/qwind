@@ -19,7 +19,7 @@ export default component$(() => {
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
                     NotAnyPlace
                   </span>{" "}
-                  is 
+                  is  
 <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
  Not Just Any Place 
 </span>{" "}
